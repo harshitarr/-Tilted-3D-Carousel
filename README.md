@@ -4,7 +4,7 @@ A visually appealing, rotating 3D carousel built using **React.js** and **Tailwi
 
 ## Screenshot
 
-[Marvel_comic_carousel_Demo](https://github.com/harshitarr/-Tilted-3D-Carousel/blob/main/public/screenshot.png?raw=true)
+![Marvel_comic_carousel_Demo](https://github.com/harshitarr/-Tilted-3D-Carousel/blob/main/public/screenshot.png?raw=true)
 
 
 ## Demo Recording
@@ -23,7 +23,7 @@ A visually appealing, rotating 3D carousel built using **React.js** and **Tailwi
 
 
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **React.js**  
 - **Tailwind CSS**  
@@ -63,7 +63,7 @@ npm run dev
 Place your image assets (bg.png, bgin.png, dragon_*.jpg) inside the public/ directory.
 
 
-## 🖼️ Customization
+## Customization
 - Replace images[] in BannerSlider.jsx with your own paths
 - Adjust radius/image size in the setDimensions() logic
 - Modify animation speed in the angleRef.current -= 0.2 line
